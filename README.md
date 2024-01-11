@@ -2,7 +2,7 @@
 
 - This is my first time coding in rust and so I quickly made a hello world program as a funny start.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=E79kQK9jQs0)
 
 # Development Environment
 
